@@ -1,0 +1,25 @@
+.packages-images {
+  max-width:100%;
+}
+
+body{
+  background-image: url(../img/blue-water-texture.png);
+}
+
+.fancytitle {
+  font-family: Papyrus;
+  font-size: 60pt;
+  text-align: center;
+}
+
+.fancy-title-sub-heading{
+  font-size: 19pt;
+}
+
+.packages-title {
+  font-family: Papyrus;
+}
+
+#package-options {
+  text-align: center;
+}
